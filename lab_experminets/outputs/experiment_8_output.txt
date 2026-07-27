@@ -1,0 +1,8 @@
+Pivot Table - Item wise Units Sold:
+              Units
+Item               
+Cell Phone       91
+Desk              2
+Home Theater    308
+Television      509
+Video Games      16

@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<patients>
+  <patient>
+    <Patient_ID>PAT301</Patient_ID>
+    <Patient_Name>Suresh Sen</Patient_Name>
+    <Age>45</Age>
+    <Disease>Hypertension</Disease>
+    <Doctor_Assigned>Dr. A. K. Kapoor</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT302</Patient_ID>
+    <Patient_Name>Sunita Patil</Patient_Name>
+    <Age>32</Age>
+    <Disease>Type 2 Diabetes</Disease>
+    <Doctor_Assigned>Dr. Meenakshi Rao</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT303</Patient_ID>
+    <Patient_Name>Ramesh Bose</Patient_Name>
+    <Age>61</Age>
+    <Disease>Coronary Artery Disease</Disease>
+    <Doctor_Assigned>Dr. V. S. Agarwal</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT304</Patient_ID>
+    <Patient_Name>Anita Sharma</Patient_Name>
+    <Age>28</Age>
+    <Disease>Acute Bronchitis</Disease>
+    <Doctor_Assigned>Dr. S. N. Banerjee</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT305</Patient_ID>
+    <Patient_Name>Mahesh Bhat</Patient_Name>
+    <Age>54</Age>
+    <Disease>Osteoarthritis</Disease>
+    <Doctor_Assigned>Dr. R. C. Joshi</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT306</Patient_ID>
+    <Patient_Name>Pooja Malhotra</Patient_Name>
+    <Age>39</Age>
+    <Disease>Migraine</Disease>
+    <Doctor_Assigned>Dr. Meenakshi Rao</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT307</Patient_ID>
+    <Patient_Name>Vijay Pillai</Patient_Name>
+    <Age>70</Age>
+    <Disease>Pneumonia</Disease>
+    <Doctor_Assigned>Dr. S. N. Banerjee</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT308</Patient_ID>
+    <Patient_Name>Kavita Sethi</Patient_Name>
+    <Age>24</Age>
+    <Disease>Appendicitis</Disease>
+    <Doctor_Assigned>Dr. A. K. Kapoor</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT309</Patient_ID>
+    <Patient_Name>Deepak Tiwari</Patient_Name>
+    <Age>48</Age>
+    <Disease>Gastritis</Disease>
+    <Doctor_Assigned>Dr. R. C. Joshi</Doctor_Assigned>
+  </patient>
+  <patient>
+    <Patient_ID>PAT310</Patient_ID>
+    <Patient_Name>Rekha Nambiar</Patient_Name>
+    <Age>56</Age>
+    <Disease>Hypothyroidism</Disease>
+    <Doctor_Assigned>Dr. Meenakshi Rao</Doctor_Assigned>
+  </patient>
+</patients>

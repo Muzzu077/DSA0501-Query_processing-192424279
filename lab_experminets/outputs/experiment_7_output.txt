@@ -1,0 +1,9 @@
+Pivot Table - Maximum and Minimum Sale Value per Item:
+                   max      min
+              Sale_amt Sale_amt
+Item                           
+Cell Phone     14400.0   6075.0
+Desk             250.0    250.0
+Home Theater   40500.0  14000.0
+Television    113810.0  38336.0
+Video Games      936.0    936.0

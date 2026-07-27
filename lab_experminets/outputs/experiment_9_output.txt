@@ -1,0 +1,14 @@
+Pivot Table - Total Sale Amount Region wise, Manager wise, Salesman wise:
+                           Sale_amt
+Region  Manager SalesMan           
+Central Douglas John          250.0
+        Hermann Luis       150948.0
+                Shelli      25000.0
+                Sigal      121820.0
+        Martha  Steven      89850.0
+        Timothy David        6075.0
+East    Douglas Karen       40500.0
+        Martha  Alexander  231076.0
+                Diana       14500.0
+West    Douglas Michael     38336.0
+        Timothy Stephen     67088.0

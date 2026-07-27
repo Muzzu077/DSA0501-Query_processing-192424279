@@ -1,0 +1,1 @@
+Scatter plot created and saved as outputs/experiment_6_output.png

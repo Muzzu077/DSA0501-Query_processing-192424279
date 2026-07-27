@@ -1,0 +1,37 @@
+[
+    {
+        "Faculty ID": "FAC201",
+        "Faculty Name": "Dr. Ramesh Chandra",
+        "Department": "Computer Science",
+        "Designation": "Professor & HOD",
+        "Experience (Years)": 18
+    },
+    {
+        "Faculty ID": "FAC202",
+        "Faculty Name": "Dr. Shalini Iyer",
+        "Department": "Data Science",
+        "Designation": "Associate Professor",
+        "Experience (Years)": 12
+    },
+    {
+        "Faculty ID": "FAC203",
+        "Faculty Name": "Prof. Nitin Saxena",
+        "Department": "Artificial Intelligence",
+        "Designation": "Assistant Professor",
+        "Experience (Years)": 7
+    },
+    {
+        "Faculty ID": "FAC204",
+        "Faculty Name": "Dr. Aruna Hegde",
+        "Department": "Information Technology",
+        "Designation": "Professor",
+        "Experience (Years)": 15
+    },
+    {
+        "Faculty ID": "FAC205",
+        "Faculty Name": "Prof. Sanjay Mishra",
+        "Department": "Cyber Security",
+        "Designation": "Assistant Professor",
+        "Experience (Years)": 5
+    }
+]

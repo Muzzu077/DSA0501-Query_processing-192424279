@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<courses>
+  <course>
+    <Course_Code>CS501</Course_Code>
+    <Course_Name>Advanced Query Processing &amp; Optimization</Course_Name>
+    <Credits>4</Credits>
+    <Department>Data Science</Department>
+    <Faculty_Name>Dr. Shalini Iyer</Faculty_Name>
+  </course>
+  <course>
+    <Course_Code>CS502</Course_Code>
+    <Course_Name>Natural Language Processing</Course_Name>
+    <Credits>3</Credits>
+    <Department>Artificial Intelligence</Department>
+    <Faculty_Name>Prof. Nitin Saxena</Faculty_Name>
+  </course>
+  <course>
+    <Course_Code>CS503</Course_Code>
+    <Course_Name>Deep Learning &amp; Computer Vision</Course_Name>
+    <Credits>4</Credits>
+    <Department>Computer Science</Department>
+    <Faculty_Name>Dr. Ramesh Chandra</Faculty_Name>
+  </course>
+  <course>
+    <Course_Code>CS504</Course_Code>
+    <Course_Name>Cloud Computing Infrastructure</Course_Name>
+    <Credits>3</Credits>
+    <Department>Information Technology</Department>
+    <Faculty_Name>Dr. Aruna Hegde</Faculty_Name>
+  </course>
+  <course>
+    <Course_Code>CS505</Course_Code>
+    <Course_Name>Applied Cybersecurity &amp; Forensics</Course_Name>
+    <Credits>4</Credits>
+    <Department>Cyber Security</Department>
+    <Faculty_Name>Prof. Sanjay Mishra</Faculty_Name>
+  </course>
+</courses>
