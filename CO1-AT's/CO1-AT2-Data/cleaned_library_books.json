@@ -1,0 +1,30 @@
+[
+    {
+        "book_id": "BK101",
+        "title": "Introduction To Data Science",
+        "author": "Dr. John Smith",
+        "publisher": "TechPress",
+        "year": 2021
+    },
+    {
+        "book_id": "BK102",
+        "title": "Python Programming Masterclass",
+        "author": "Jane Doe",
+        "publisher": "CodeBooks",
+        "year": 2019
+    },
+    {
+        "book_id": "BK105",
+        "title": "Deep Learning Specialization",
+        "author": "Yann Lecun",
+        "publisher": "TechPress",
+        "year": 2023
+    },
+    {
+        "book_id": "BK106",
+        "title": "Natural Language Processing",
+        "author": "Christopher Manning",
+        "publisher": "MIT Press",
+        "year": 2022
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<cleaned_courses_catalog>
+  <course>
+    <course_code>CS501</course_code>
+    <title>Advanced Query Processing</title>
+    <credits>4</credits>
+    <department>Data Science</department>
+  </course>
+  <course>
+    <course_code>CS504</course_code>
+    <title>Cloud Computing Security</title>
+    <credits>4</credits>
+    <department>Information Technology</department>
+  </course>
+</cleaned_courses_catalog>

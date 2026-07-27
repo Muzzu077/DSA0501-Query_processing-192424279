@@ -1,0 +1,38 @@
+[
+    {
+        "raw_record": {
+            "book_id": "BK103",
+            "title": "Database Management Systems",
+            "author": "",
+            "publisher": "EduPub",
+            "year": 2020
+        },
+        "reasons": [
+            "Missing or empty author"
+        ]
+    },
+    {
+        "raw_record": {
+            "book_id": "BK104",
+            "title": "Machine Learning Foundations",
+            "author": "Alan Turing",
+            "publisher": "AI Press",
+            "year": "invalid_year"
+        },
+        "reasons": [
+            "Non-integer publication year 'invalid_year'"
+        ]
+    },
+    {
+        "raw_record": {
+            "book_id": "BK101",
+            "title": "Duplicate Book Record",
+            "author": "Dr. John Smith",
+            "publisher": "TechPress",
+            "year": 2021
+        },
+        "reasons": [
+            "Duplicate book_id 'BK101'"
+        ]
+    }
+]

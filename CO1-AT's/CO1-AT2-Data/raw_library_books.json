@@ -1,0 +1,51 @@
+[
+    {
+        "book_id": "BK101",
+        "title": "  introduction to data science  ",
+        "author": "Dr. John Smith",
+        "publisher": "TechPress",
+        "year": 2021
+    },
+    {
+        "book_id": "BK102",
+        "title": "Python Programming Masterclass",
+        "author": "Jane Doe",
+        "publisher": "CodeBooks",
+        "year": 2019
+    },
+    {
+        "book_id": "BK103",
+        "title": "Database Management Systems",
+        "author": "",
+        "publisher": "EduPub",
+        "year": 2020
+    },
+    {
+        "book_id": "BK104",
+        "title": "Machine Learning Foundations",
+        "author": "Alan Turing",
+        "publisher": "AI Press",
+        "year": "invalid_year"
+    },
+    {
+        "book_id": "BK105",
+        "title": "Deep Learning Specialization",
+        "author": "Yann LeCun",
+        "publisher": "TechPress",
+        "year": 2023
+    },
+    {
+        "book_id": "BK101",
+        "title": "Duplicate Book Record",
+        "author": "Dr. John Smith",
+        "publisher": "TechPress",
+        "year": 2021
+    },
+    {
+        "book_id": "BK106",
+        "title": "Natural Language Processing",
+        "author": "Christopher Manning",
+        "publisher": "MIT Press",
+        "year": 2022
+    }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses_catalog>
+    <course>
+        <course_code> CS501 </course_code>
+        <title>  advanced query processing  </title>
+        <credits>4</credits>
+        <department>Data Science</department>
+    </course>
+    <course>
+        <course_code>CS502</course_code>
+        <title>Natural Language Processing</title>
+        <credits>invalid_credits</credits>
+        <department>Artificial Intelligence</department>
+    </course>
+    <course>
+        <course_code>CS503</course_code>
+        <title></title>
+        <credits>3</credits>
+        <department>Computer Science</department>
+    </course>
+    <course>
+        <course_code>CS504</course_code>
+        <title>Cloud Computing Security</title>
+        <credits>4</credits>
+        <department>Information Technology</department>
+    </course>
+</courses_catalog>
