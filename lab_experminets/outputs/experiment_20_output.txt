@@ -1,0 +1,20 @@
+Original DataFrame:
+           name_code
+0      Company_Apple
+1     Company_Google
+2  Company_Microsoft
+3         Inc_Amazon
+4          Corp_Meta
+5    Company_Netflix
+
+Character start index of substring 'Company' in column 'name_code':
+           name_code  substring_char_index
+0      Company_Apple                     0
+1     Company_Google                     0
+2  Company_Microsoft                     0
+3         Inc_Amazon                    -1
+4          Corp_Meta                    -1
+5    Company_Netflix                     0
+
+Row indices containing substring 'Company':
+[0, 1, 2, 5]

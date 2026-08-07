@@ -1,0 +1,18 @@
+World Alcohol Consumption Dataset:
+   Year       WHO region                Country Beverage Types  Display Value
+0  1986  Western Pacific               Viet Nam           Wine           0.00
+1  1986           Europe                Uruguay          Other           0.50
+2  1985           Africa          Cote d'Ivoire           Wine           1.62
+3  1986         Americas               Colombia           Beer           4.27
+4  1987         Americas  Saint Kitts and Nevis           Beer           1.98
+5  1987         Americas              Guatemala          Other           0.00
+6  1987           Europe             Azerbaijan          Other           5.00
+7  1985           Africa                 Angola        Spirits           0.39
+8  1986         Americas    Antigua and Barbuda        Spirits           1.55
+9  1984           Africa                Nigeria          Other           6.10
+
+Dataset Dimensions / Shape (Rows, Columns):
+(10, 5)
+
+Column Names:
+['Year', 'WHO region', 'Country', 'Beverage Types', 'Display Value']
