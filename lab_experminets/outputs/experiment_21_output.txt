@@ -1,0 +1,15 @@
+Original DataFrame:
+  company_code       name
+0         c001     Google
+1         C002  MICROSOFT
+2         c003      apple
+3         C004     AMAZON
+4         c005    netflix
+
+DataFrame after swapping cases of 'name' and 'company_code':
+  company_code       name name_swapped company_code_swapped
+0         c001     Google       gOOGLE                 C001
+1         C002  MICROSOFT    microsoft                 c002
+2         c003      apple        APPLE                 C003
+3         C004     AMAZON       amazon                 c004
+4         c005    netflix      NETFLIX                 C005

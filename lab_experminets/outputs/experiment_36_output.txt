@@ -1,0 +1,1 @@
+Scatter plot for 3 groups created and saved as outputs/experiment_36_output.png

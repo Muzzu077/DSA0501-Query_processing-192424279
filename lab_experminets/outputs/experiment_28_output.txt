@@ -1,0 +1,1 @@
+Horizontal bar chart created and saved as outputs/experiment_28_output.png

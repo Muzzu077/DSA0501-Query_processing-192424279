@@ -1,0 +1,5 @@
+Coordinates read from test.txt:
+X: 1.0, Y: 2.0
+X: 2.0, Y: 4.0
+X: 3.0, Y: 1.0
+Line plot created and saved as outputs/experiment_23_output.png

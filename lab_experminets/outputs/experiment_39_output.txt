@@ -1,0 +1,18 @@
+Original DataFrame:
+        name  score  attempts qualify
+a  Anastasia   12.5         1     yes
+b       Dima    9.0         3      no
+c  Katherine   16.5         2     yes
+d      James    NaN         3      no
+e      Emily    9.0         2      no
+f    Michael   20.0         3     yes
+g    Matthew   14.5         1     yes
+h      Laura    NaN         1      no
+i      Kevin    8.0         2      no
+j      Jonas   19.0         1     yes
+
+First 3 rows of the DataFrame:
+        name  score  attempts qualify
+a  Anastasia   12.5         1     yes
+b       Dima    9.0         3      no
+c  Katherine   16.5         2     yes

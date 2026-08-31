@@ -1,0 +1,7 @@
+DataFrame created from dictionary:
+    X   Y   Z
+0  78  84  86
+1  85  94  97
+2  96  89  96
+3  80  83  72
+4  86  86  83

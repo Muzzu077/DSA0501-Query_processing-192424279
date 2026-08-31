@@ -1,0 +1,1 @@
+Scatter plot with empty circles created and saved as outputs/experiment_33_output.png

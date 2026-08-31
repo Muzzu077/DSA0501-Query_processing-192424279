@@ -1,0 +1,1 @@
+Bar chart created and saved as outputs/experiment_27_output.png
